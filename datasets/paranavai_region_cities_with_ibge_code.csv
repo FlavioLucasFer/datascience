@@ -1,17 +1,28 @@
 ,UF,NOME DA UF,MUNICIPIO,NOME DO MUNICIPIO,DISTRITO,NOME DO DISTRITO,SUBDISTRITO,NOME DO SUBDISTRITO,CODIGO IBGE
-2,41,Paraná,00608,Alto Paraná,10,Maristela,,,4100608
 3,41,Paraná,00608,Alto Paraná,15,Santa Maria,,,4100608
 5,41,Paraná,00905,Amaporã,10,Nordestina,,,4100905
+6,41,Paraná,06704,Cruzeiro do Sul,05,Cruzeiro do Sul,,,4106704
+7,41,Paraná,07108,Diamante do Norte,05,Diamante do Norte,,,4107108
+8,41,Paraná,08908,Guairaçá,05,Guairaçá,,,4108908
+9,41,Paraná,10300,Inajá,05,Inajá,,,4110300
+10,41,Paraná,11308,Itaúna do Sul,05,Itaúna do Sul,,,4111308
+11,41,Paraná,12603,Jardim Olinda,05,Jardim Olinda,,,4112603
+12,41,Paraná,13502,Loanda,05,Loanda,,,4113502
+13,41,Paraná,15002,Marilena,05,Marilena,,,4115002
+14,41,Paraná,15903,Mirador,05,Mirador,,,4115903
+15,41,Paraná,16505,Nova Aliança do Ivaí,05,Nova Aliança do Ivaí,,,4116505
 17,41,Paraná,17107,Nova Londrina,10,Cintra Pimentel,,,4117107
-22,41,Paraná,18402,Paranavaí,10,Cristo Rei,,,4118402
-23,41,Paraná,18402,Paranavaí,15,Deputado José Afonso,,,4118402
-24,41,Paraná,18402,Paranavaí,20,Graciosa,,,4118402
+18,41,Paraná,18006,Paraíso do Norte,05,Paraíso do Norte,,,4118006
+20,41,Paraná,18303,Paranapoema,05,Paranapoema,,,4118303
 25,41,Paraná,18402,Paranavaí,25,Sumaré,,,4118402
 27,41,Paraná,19707,Planaltina do Paraná,10,Comur,,,4119707
-30,41,Paraná,21000,Querência do Norte,10,Icatu,,,4121000
-31,41,Paraná,21000,Querência do Norte,15,Porto Brasílio,,,4121000
+28,41,Paraná,20200,Porto Rico,05,Porto Rico,,,4120200
 33,41,Paraná,23303,Santa Cruz de Monte Castelo,10,Santa Esmeralda,,,4123303
 35,41,Paraná,23709,Santa Isabel do Ivaí,15,São José do Ivaí,,,4123709
+36,41,Paraná,23956,Santa Mônica,05,Santa Mônica,,,4123956
+37,41,Paraná,24202,Santo Antônio do Caiuá,05,Santo Antônio do Caiuá,,,4124202
 39,41,Paraná,24608,São Carlos do Ivaí,10,Porto São Carlos,,,4124608
+40,41,Paraná,24905,São João do Caiuá,05,São João do Caiuá,,,4124905
 42,41,Paraná,25902,São Pedro do Paraná,10,Porto São José,,,4125902
+43,41,Paraná,26702,Tamboara,05,Tamboara,,,4126702
 45,41,Paraná,27304,Terra Rica,10,Adhemar de Barros,,,4127304

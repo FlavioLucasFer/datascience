@@ -1,410 +1,400 @@
 ,UF,NOME DA UF,MUNICIPIO,NOME DO MUNICIPIO,DISTRITO,NOME DO DISTRITO,SUBDISTRITO,NOME DO SUBDISTRITO,CODIGO IBGE
-2,41,Paraná,00608,Alto Paraná,10,Maristela,,,4100608
 3,41,Paraná,00608,Alto Paraná,15,Santa Maria,,,4100608
 5,41,Paraná,00905,Amaporã,10,Nordestina,,,4100905
+6,41,Paraná,06704,Cruzeiro do Sul,05,Cruzeiro do Sul,,,4106704
+7,41,Paraná,07108,Diamante do Norte,05,Diamante do Norte,,,4107108
+8,41,Paraná,08908,Guairaçá,05,Guairaçá,,,4108908
+9,41,Paraná,10300,Inajá,05,Inajá,,,4110300
+10,41,Paraná,11308,Itaúna do Sul,05,Itaúna do Sul,,,4111308
+11,41,Paraná,12603,Jardim Olinda,05,Jardim Olinda,,,4112603
+12,41,Paraná,13502,Loanda,05,Loanda,,,4113502
+13,41,Paraná,15002,Marilena,05,Marilena,,,4115002
+14,41,Paraná,15903,Mirador,05,Mirador,,,4115903
+15,41,Paraná,16505,Nova Aliança do Ivaí,05,Nova Aliança do Ivaí,,,4116505
 17,41,Paraná,17107,Nova Londrina,10,Cintra Pimentel,,,4117107
-22,41,Paraná,18402,Paranavaí,10,Cristo Rei,,,4118402
-23,41,Paraná,18402,Paranavaí,15,Deputado José Afonso,,,4118402
-24,41,Paraná,18402,Paranavaí,20,Graciosa,,,4118402
+18,41,Paraná,18006,Paraíso do Norte,05,Paraíso do Norte,,,4118006
+19,41,Paraná,18105,Paranacity,05,Paranacity,,,4118105
+20,41,Paraná,18303,Paranapoema,05,Paranapoema,,,4118303
 25,41,Paraná,18402,Paranavaí,25,Sumaré,,,4118402
 27,41,Paraná,19707,Planaltina do Paraná,10,Comur,,,4119707
-30,41,Paraná,21000,Querência do Norte,10,Icatu,,,4121000
+28,41,Paraná,20200,Porto Rico,05,Porto Rico,,,4120200
 31,41,Paraná,21000,Querência do Norte,15,Porto Brasílio,,,4121000
 33,41,Paraná,23303,Santa Cruz de Monte Castelo,10,Santa Esmeralda,,,4123303
 35,41,Paraná,23709,Santa Isabel do Ivaí,15,São José do Ivaí,,,4123709
+36,41,Paraná,23956,Santa Mônica,05,Santa Mônica,,,4123956
+37,41,Paraná,24202,Santo Antônio do Caiuá,05,Santo Antônio do Caiuá,,,4124202
 39,41,Paraná,24608,São Carlos do Ivaí,10,Porto São Carlos,,,4124608
+40,41,Paraná,24905,São João do Caiuá,05,São João do Caiuá,,,4124905
 42,41,Paraná,25902,São Pedro do Paraná,10,Porto São José,,,4125902
+43,41,Paraná,26702,Tamboara,05,Tamboara,,,4126702
 45,41,Paraná,27304,Terra Rica,10,Adhemar de Barros,,,4127304
-47,41,Paraná,00509,Altônia,10,Jardim Paredão,,,4100509
 48,41,Paraná,00509,Altônia,15,São João,,,4100509
-50,41,Paraná,00707,Alto Piquiri,15,Mirante do Piquiri,,,4100707
-51,41,Paraná,00707,Alto Piquiri,20,Paulistânia,,,4100707
 52,41,Paraná,00707,Alto Piquiri,25,Saltinho do Oeste,,,4100707
-55,41,Paraná,03479,Cafezal do Sul,10,Guaiporã,,,4103479
+53,41,Paraná,03370,Brasilândia do Sul,05,Brasilândia do Sul,,,4103370
 56,41,Paraná,03479,Cafezal do Sul,15,Jangada,,,4103479
-58,41,Paraná,06605,Cruzeiro do Oeste,10,Cafeeiros,,,4106605
 59,41,Paraná,06605,Cruzeiro do Oeste,15,São Silvestre,,,4106605
+60,41,Paraná,07256,Douradina,05,Douradina,,,4107256
+61,41,Paraná,07520,Esperança Nova,05,Esperança Nova,,,4107520
 63,41,Paraná,08320,Francisco Alves,10,Rio Bonito,,,4108320
-65,41,Paraná,09906,Icaraíma,10,Porto Camargo,,,4109906
 66,41,Paraná,09906,Icaraíma,15,Vila Rica do Ivaí,,,4109906
-68,41,Paraná,10607,Iporã,14,Nilza,,,4110607
 69,41,Paraná,10607,Iporã,15,Oroite,,,4110607
 71,41,Paraná,11555,Ivaté,15,Herculândia,,,4111555
 73,41,Paraná,14708,Maria Helena,10,Carbonera,,,4114708
 75,41,Paraná,15101,Mariluz,10,São Luiz,,,4115101
-82,41,Paraná,28104,Umuarama,15,Lovat,,,4128104
-83,41,Paraná,28104,Umuarama,25,Roberto Silveira,,,4128104
-84,41,Paraná,28104,Umuarama,30,Santa Eliza,,,4128104
+76,41,Paraná,17206,Nova Olímpia,05,Nova Olímpia,,,4117206
+77,41,Paraná,18857,Perobal,05,Perobal,,,4118857
+78,41,Paraná,18907,Pérola,05,Pérola,,,4118907
+79,41,Paraná,25357,São Jorge do Patrocínio,05,São Jorge do Patrocínio,,,4125357
+80,41,Paraná,26900,Tapira,05,Tapira,,,4126900
 85,41,Paraná,28104,Umuarama,35,Serra dos Dourados,,,4128104
-89,41,Paraná,05508,Cianorte,10,São Lourenço,,,4105508
+86,41,Paraná,28625,Alto Paraíso,05,Alto Paraíso,,,4128625
+87,41,Paraná,28807,Xambrê,05,Xambrê,,,4128807
 90,41,Paraná,05508,Cianorte,15,Vidigal,,,4105508
+91,41,Paraná,05607,Cidade Gaúcha,05,Cidade Gaúcha,,,4105607
+92,41,Paraná,09104,Guaporema,05,Guaporema,,,4109104
+93,41,Paraná,10409,Indianópolis,05,Indianópolis,,,4110409
+94,41,Paraná,12405,Japurá,05,Japurá,,,4112405
+95,41,Paraná,13007,Jussara,05,Jussara,,,4113007
+96,41,Paraná,22602,Rondon,05,Rondon,,,4122602
+97,41,Paraná,25555,São Manoel do Paraná,05,São Manoel do Paraná,,,4125555
+98,41,Paraná,26108,São Tomé,05,São Tomé,,,4126108
 100,41,Paraná,26801,Tapejara,10,Bela Vista do Tapiracuí,,,4126801
-102,41,Paraná,27908,Tuneiras do Oeste,10,Aparecida D'Oeste,,,4127908
 103,41,Paraná,27908,Tuneiras do Oeste,15,Marabá,,,4127908
-107,41,Paraná,03909,Campina da Lagoa,10,Bela Vista do Piquiri,,,4103909
-108,41,Paraná,03909,Campina da Lagoa,15,Herveira,,,4103909
+104,41,Paraná,00459,Altamira do Paraná,05,Altamira do Paraná,,,4100459
+105,41,Paraná,03008,Boa Esperança,05,Boa Esperança,,,4103008
 109,41,Paraná,03909,Campina da Lagoa,20,Salles de Oliveira,,,4103909
+110,41,Paraná,08601,Goioerê,05,Goioerê,,,4108601
 112,41,Paraná,12207,Janiópolis,10,Arapuan,,,4112207
-114,41,Paraná,12959,Juranda,08,Primavera,,,4112959
 115,41,Paraná,12959,Juranda,10,Rio Verde,,,4112959
 117,41,Paraná,16109,Moreira Sales,10,Paraná d'Oeste,,,4116109
-119,41,Paraná,16802,Nova Cantu,10,Geremia Lunardelli,,,4116802
 120,41,Paraná,16802,Nova Cantu,15,Santo Rei,,,4116802
+121,41,Paraná,20655,Quarto Centenário,05,Quarto Centenário,,,4120655
+122,41,Paraná,21356,Rancho Alegre D'Oeste,05,Rancho Alegre D'Oeste,,,4121356
 124,41,Paraná,28005,Ubiratã,10,Yolanda,,,4128005
 126,41,Paraná,01705,Araruna,15,São Vicente,,,4101705
-128,41,Paraná,02505,Barbosa Ferraz,07,Bourbonia,,,4102505
-129,41,Paraná,02505,Barbosa Ferraz,15,Ourilândia,,,4102505
-130,41,Paraná,02505,Barbosa Ferraz,20,Pocinho,,,4102505
 131,41,Paraná,02505,Barbosa Ferraz,25,Tereza Breda,,,4102505
-133,41,Paraná,04303,Campo Mourão,05,Campo Mourão,01,Zona 1,4104303
-134,41,Paraná,04303,Campo Mourão,05,Campo Mourão,02,Zona 2,4104303
-135,41,Paraná,04303,Campo Mourão,05,Campo Mourão,03,Zona 3,4104303
-136,41,Paraná,04303,Campo Mourão,05,Campo Mourão,04,Zona 4,4104303
-137,41,Paraná,04303,Campo Mourão,05,Campo Mourão,05,Zona 5,4104303
 138,41,Paraná,04303,Campo Mourão,20,Piquirivaí,,,4104303
-141,41,Paraná,07504,Engenheiro Beltrão,07,Figueira do Oeste,,,4107504
-142,41,Paraná,07504,Engenheiro Beltrão,09,Ivailândia,,,4107504
-143,41,Paraná,07504,Engenheiro Beltrão,10,Sertãozinho,,,4107504
-144,41,Paraná,07504,Engenheiro Beltrão,15,Sussuí,,,4107504
+139,41,Paraná,06555,Corumbataí do Sul,05,Corumbataí do Sul,,,4106555
 145,41,Paraná,07504,Engenheiro Beltrão,20,Triângulo,,,4107504
 147,41,Paraná,07553,Farol,10,Martinópolis D'Oeste,,,4107553
-149,41,Paraná,07702,Fênix,10,Bela Vista do Ivaí,,,4107702
 150,41,Paraná,07702,Fênix,15,Porteira Preta,,,4107702
-152,41,Paraná,10805,Iretama,06,Águas de Jurema,,,4110805
 153,41,Paraná,10805,Iretama,10,Marilu,,,4110805
+154,41,Paraná,13734,Luiziana,05,Luiziana,,,4113734
+155,41,Paraná,14005,Mamborê,05,Mamborê,,,4114005
+156,41,Paraná,18808,Peabiru,05,Peabiru,,,4118808
 158,41,Paraná,21109,Quinta do Sol,10,Irapuan,,,4121109
 160,41,Paraná,22503,Roncador,10,Alto do São João,,,4122503
-164,41,Paraná,02109,Astorga,10,Içara,,,4102109
-165,41,Paraná,02109,Astorga,15,Santa Zélia,,,4102109
+161,41,Paraná,27205,Terra Boa,05,Terra Boa,,,4127205
+162,41,Paraná,01150,Ângulo,05,Ângulo,,,4101150
 166,41,Paraná,02109,Astorga,20,Tupinambá,,,4102109
+167,41,Paraná,02208,Atalaia,05,Atalaia,,,4102208
+168,41,Paraná,03404,Cafeara,05,Cafeara,,,4103404
+169,41,Paraná,05102,Centenário do Sul,05,Centenário do Sul,,,4105102
 171,41,Paraná,05904,Colorado,10,Alto Alegre,,,4105904
+172,41,Paraná,08106,Flórida,05,Flórida,,,4108106
 174,41,Paraná,09203,Guaraci,10,Bentópolis,,,4109203
+175,41,Paraná,10003,Iguaraçu,05,Iguaraçu,,,4110003
+176,41,Paraná,10904,Itaguajé,05,Itaguajé,,,4110904
+177,41,Paraná,11902,Jaguapitã,05,Jaguapitã,,,4111902
+178,41,Paraná,13601,Lobato,05,Lobato,,,4113601
 180,41,Paraná,13809,Lupionópolis,10,Mairá,,,4113809
+181,41,Paraná,14104,Mandaguaçu,05,Mandaguaçu,,,4114104
 183,41,Paraná,16307,Munhoz de Melo,10,Fernão Dias,,,4116307
-186,41,Paraná,16901,Nova Esperança,10,Barão de Lucena,,,4116901
+184,41,Paraná,16406,Nossa Senhora das Graças,05,Nossa Senhora das Graças,,,4116406
 187,41,Paraná,16901,Nova Esperança,15,Ivaitinga,,,4116901
 189,41,Paraná,20408,Presidente Castelo Branco,10,Boa Vista,,,4120408
+190,41,Paraná,23402,Santa Fé,05,Santa Fé,,,4123402
+191,41,Paraná,23600,Santa Inês,05,Santa Inês,,,4123600
+192,41,Paraná,24509,Santo Inácio,05,Santo Inácio,,,4124509
+193,41,Paraná,28302,Uniflor,05,Uniflor,,,4128302
 195,41,Paraná,00806,Alvorada do Sul,10,Esperança do Norte,,,4100806
 197,41,Paraná,02802,Bela Vista do Paraíso,10,Santa Margarida,,,4102802
+198,41,Paraná,08007,Florestópolis,05,Florestópolis,,,4108007
+199,41,Paraná,16000,Miraselva,05,Miraselva,,,4116000
+200,41,Paraná,20002,Porecatu,05,Porecatu,,,4120002
+201,41,Paraná,20333,Prado Ferreira,05,Prado Ferreira,,,4120333
 203,41,Paraná,20507,Primeiro de Maio,10,Ibiaci,,,4120507
+204,41,Paraná,26504,Sertanópolis,05,Sertanópolis,,,4126504
+205,41,Paraná,07306,Doutor Camargo,05,Doutor Camargo,,,4107306
 207,41,Paraná,07801,Floraí,10,Nova Bilac,,,4107801
+208,41,Paraná,07900,Floresta,05,Floresta,,,4107900
+209,41,Paraná,11100,Itambé,05,Itambé,,,4111100
+210,41,Paraná,11605,Ivatuba,05,Ivatuba,,,4111605
+211,41,Paraná,17404,Ourizona,05,Ourizona,,,4117404
 213,41,Paraná,25308,São Jorge do Ivaí,10,Copacabana do Norte,,,4125308
-216,41,Paraná,14807,Marialva,10,Santa Fé do Pirapó,,,4114807
-217,41,Paraná,14807,Marialva,15,São Luiz,,,4114807
+214,41,Paraná,14203,Mandaguari,05,Mandaguari,,,4114203
 218,41,Paraná,14807,Marialva,20,São Miguel do Cambuí,,,4114807
-220,41,Paraná,15200,Maringá,05,Maringá,01,Zona 1,4115200
-221,41,Paraná,15200,Maringá,05,Maringá,02,Zona 2,4115200
-222,41,Paraná,15200,Maringá,05,Maringá,03,Zona 3,4115200
-223,41,Paraná,15200,Maringá,05,Maringá,04,Zona 4,4115200
-224,41,Paraná,15200,Maringá,05,Maringá,05,Zona 5,4115200
-225,41,Paraná,15200,Maringá,05,Maringá,06,Zona 6,4115200
-226,41,Paraná,15200,Maringá,05,Maringá,07,Zona 7,4115200
-227,41,Paraná,15200,Maringá,05,Maringá,08,Zona 8,4115200
-228,41,Paraná,15200,Maringá,05,Maringá,09,Zona 9,4115200
-229,41,Paraná,15200,Maringá,05,Maringá,10,Zona 10,4115200
-230,41,Paraná,15200,Maringá,05,Maringá,11,Zona 11,4115200
-231,41,Paraná,15200,Maringá,05,Maringá,12,Zona 12,4115200
-232,41,Paraná,15200,Maringá,05,Maringá,13,Zona 13,4115200
-233,41,Paraná,15200,Maringá,05,Maringá,14,Zona 14,4115200
-234,41,Paraná,15200,Maringá,05,Maringá,15,Zona 15,4115200
-235,41,Paraná,15200,Maringá,05,Maringá,17,Zona 17,4115200
-236,41,Paraná,15200,Maringá,05,Maringá,18,Zona 18,4115200
-237,41,Paraná,15200,Maringá,05,Maringá,19,Zona 19,4115200
-238,41,Paraná,15200,Maringá,05,Maringá,20,Zona 20,4115200
-239,41,Paraná,15200,Maringá,05,Maringá,21,Zona 21,4115200
-240,41,Paraná,15200,Maringá,05,Maringá,22,Zona 22,4115200
-241,41,Paraná,15200,Maringá,05,Maringá,23,Zona 23,4115200
-242,41,Paraná,15200,Maringá,05,Maringá,24,Zona 24,4115200
-243,41,Paraná,15200,Maringá,05,Maringá,25,Zona 25,4115200
-244,41,Paraná,15200,Maringá,05,Maringá,26,Zona 26,4115200
-245,41,Paraná,15200,Maringá,05,Maringá,27,Zona 27,4115200
-246,41,Paraná,15200,Maringá,05,Maringá,28,Zona 28,4115200
-247,41,Paraná,15200,Maringá,05,Maringá,29,Zona 29,4115200
-248,41,Paraná,15200,Maringá,05,Maringá,30,Zona 30,4115200
-249,41,Paraná,15200,Maringá,05,Maringá,31,Zona 31,4115200
-250,41,Paraná,15200,Maringá,05,Maringá,35,Zona 35,4115200
-251,41,Paraná,15200,Maringá,05,Maringá,36,Zona 36,4115200
-252,41,Paraná,15200,Maringá,05,Maringá,37,Zona 37,4115200
-253,41,Paraná,15200,Maringá,05,Maringá,38,Zona 38,4115200
-254,41,Paraná,15200,Maringá,05,Maringá,39,Zona 39,4115200
-255,41,Paraná,15200,Maringá,05,Maringá,40,Zona 40,4115200
-256,41,Paraná,15200,Maringá,05,Maringá,41,Zona 41,4115200
-257,41,Paraná,15200,Maringá,05,Maringá,42,Zona 42,4115200
-258,41,Paraná,15200,Maringá,05,Maringá,43,Zona 43,4115200
-259,41,Paraná,15200,Maringá,05,Maringá,44,Zona 44,4115200
-260,41,Paraná,15200,Maringá,05,Maringá,45,Zona 45,4115200
-261,41,Paraná,15200,Maringá,05,Maringá,46,Zona 46,4115200
-262,41,Paraná,15200,Maringá,05,Maringá,47,Zona 47,4115200
-263,41,Paraná,15200,Maringá,05,Maringá,48,Zona 48,4115200
-264,41,Paraná,15200,Maringá,05,Maringá,50,Zona Central,4115200
-265,41,Paraná,15200,Maringá,10,Floriano,,,4115200
-266,41,Paraná,15200,Maringá,10,Floriano,34,Zona 34,4115200
-267,41,Paraná,15200,Maringá,15,Iguatemi,,,4115200
 268,41,Paraná,15200,Maringá,15,Iguatemi,33,Zona 33,4115200
 270,41,Paraná,17503,Paiçandu,10,Água Boa,,,4117503
-273,41,Paraná,01408,Apucarana,10,Correia de Freitas,,,4101408
-274,41,Paraná,01408,Apucarana,15,Pirapó,,,4101408
-275,41,Paraná,01408,Apucarana,20,São Pedro,,,4101408
+271,41,Paraná,26256,Sarandi,05,Sarandi,,,4126256
 276,41,Paraná,01408,Apucarana,25,Vila Reis,,,4101408
+277,41,Paraná,01507,Arapongas,05,Arapongas,,,4101507
+278,41,Paraná,03503,Califórnia,05,Califórnia,,,4103503
+279,41,Paraná,03800,Cambira,05,Cambira,,,4103800
 281,41,Paraná,12108,Jandaia do Sul,10,São José,,,4112108
 283,41,Paraná,14906,Marilândia do Sul,25,Nova Amoreira,,,4114906
+284,41,Paraná,15754,Mauá da Serra,05,Mauá da Serra,,,4115754
+285,41,Paraná,17297,Novo Itacolomi,05,Novo Itacolomi,,,4117297
+286,41,Paraná,22701,Sabáudia,05,Sabáudia,,,4122701
 288,41,Paraná,03701,Cambé,10,Prata,,,4103701
-291,41,Paraná,13700,Londrina,10,Guaravera,,,4113700
-292,41,Paraná,13700,Londrina,15,Irerê,,,4113700
-293,41,Paraná,13700,Londrina,20,Lerroville,,,4113700
-294,41,Paraná,13700,Londrina,25,Maravilha,,,4113700
-295,41,Paraná,13700,Londrina,30,Paiquerê,,,4113700
-296,41,Paraná,13700,Londrina,35,São Luiz,,,4113700
+289,41,Paraná,09807,Ibiporã,05,Ibiporã,,,4109807
 297,41,Paraná,13700,Londrina,45,Warta,,,4113700
-300,41,Paraná,22404,Rolândia,10,Nossa Senhora da Aparecida,,,4122404
+298,41,Paraná,19657,Pitangueiras,05,Pitangueiras,,,4119657
 301,41,Paraná,22404,Rolândia,20,São Martinho,,,4122404
+302,41,Paraná,26678,Tamarana,05,Tamarana,,,4126678
+303,41,Paraná,03206,Bom Sucesso,05,Bom Sucesso,,,4103206
+304,41,Paraná,03305,Borrazópolis,05,Borrazópolis,,,4103305
+305,41,Paraná,06852,Cruzmaltina,05,Cruzmaltina,,,4106852
 307,41,Paraná,07603,Faxinal,15,Nova Altamira,,,4107603
+308,41,Paraná,13106,Kaloré,05,Kaloré,,,4113106
+309,41,Paraná,15507,Marumbi,05,Marumbi,,,4115507
 311,41,Paraná,22107,Rio Bom,10,Santo Antônio do Palmital,,,4122107
-315,41,Paraná,04402,Cândido de Abreu,10,Tereza Cristina,,,4104402
+312,41,Paraná,01655,Arapuã,05,Arapuã,,,4101655
+313,41,Paraná,01853,Ariranha do Ivaí,05,Ariranha do Ivaí,,,4101853
 316,41,Paraná,04402,Cândido de Abreu,15,Três Bicos,,,4104402
+317,41,Paraná,08551,Godoy Moreira,05,Godoy Moreira,,,4108551
 319,41,Paraná,08700,Grandes Rios,10,Ribeirão Bonito,,,4108700
-321,41,Paraná,11506,Ivaiporã,10,Alto Porã,,,4111506
-322,41,Paraná,11506,Ivaiporã,25,Jacutinga,,,4111506
 323,41,Paraná,11506,Ivaiporã,35,Santa Bárbara,,,4111506
+324,41,Paraná,12504,Jardim Alegre,05,Jardim Alegre,,,4112504
+325,41,Paraná,13429,Lidianópolis,05,Lidianópolis,,,4113429
+326,41,Paraná,13759,Lunardelli,05,Lunardelli,,,4113759
 328,41,Paraná,14500,Manoel Ribas,10,Barra Santa Salete,,,4114500
-330,41,Paraná,17271,Nova Tebas,07,Catuporanga,,,4117271
 331,41,Paraná,17271,Nova Tebas,10,Poema,,,4117271
-335,41,Paraná,25001,São João do Ivaí,15,Ubaúna,,,4125001
-336,41,Paraná,25001,São João do Ivaí,25,Luar,,,4125001
+332,41,Paraná,22172,Rio Branco do Ivaí,05,Rio Branco do Ivaí,,,4122172
+333,41,Paraná,22651,Rosário do Ivaí,05,Rosário do Ivaí,,,4122651
 337,41,Paraná,25001,São João do Ivaí,30,Santa Luzia da Alvorada,,,4125001
 339,41,Paraná,25803,São Pedro do Ivaí,10,Mariza,,,4125803
 341,41,Paraná,01903,Assaí,30,Pau D'Alho do Sul,,,4101903
-343,41,Paraná,12702,Jataizinho,10,Antônio Brandão de Oliveira,,,4112702
 344,41,Paraná,12702,Jataizinho,15,Frei Timóteo,,,4112702
-349,41,Paraná,24707,São Jerônimo da Serra,10,São João do Pinhal,,,4124707
-350,41,Paraná,24707,São Jerônimo da Serra,15,Terra Nova,,,4124707
+345,41,Paraná,17214,Nova Santa Bárbara,05,Nova Santa Bárbara,,,4117214
+346,41,Paraná,21307,Rancho Alegre,05,Rancho Alegre,,,4121307
+347,41,Paraná,23204,Santa Cecília do Pavão,05,Santa Cecília do Pavão,,,4123204
 351,41,Paraná,24707,São Jerônimo da Serra,20,Vila Nova de Florença,,,4124707
+352,41,Paraná,26009,São Sebastião da Amoreira,05,São Sebastião da Amoreira,,,4126009
 354,41,Paraná,28401,Uraí,10,Cruzeiro do Norte,,,4128401
+355,41,Paraná,00103,Abatiá,05,Abatiá,,,4100103
 357,41,Paraná,01101,Andirá,10,Nossa Senhora Aparecida,,,4101101
 359,41,Paraná,02406,Bandeirantes,10,Nossa Senhora da Candelária,,,4102406
-361,41,Paraná,06001,Congonhinhas,10,Santa Maria do Rio do Peixe,,,4106001
 362,41,Paraná,06001,Congonhinhas,15,São Francisco de Imbaú,,,4106001
 364,41,Paraná,06407,Cornélio Procópio,10,Congonhas,,,4106407
 366,41,Paraná,11001,Itambaracá,10,São Joaquim do Pontal,,,4111001
+367,41,Paraná,13403,Leópolis,05,Leópolis,,,4113403
+368,41,Paraná,16604,Nova América da Colina,05,Nova América da Colina,,,4116604
+369,41,Paraná,17008,Nova Fátima,05,Nova Fátima,,,4117008
 371,41,Paraná,21901,Ribeirão do Pinhal,15,Triolândia,,,4121901
+372,41,Paraná,23105,Santa Amélia,05,Santa Amélia,,,4123105
+373,41,Paraná,23907,Santa Mariana,05,Santa Mariana,,,4123907
 375,41,Paraná,24301,Santo Antônio do Paraíso,10,São Judas Tadeu,,,4124301
 377,41,Paraná,26405,Sertaneja,10,Paranagi,,,4126405
+378,41,Paraná,02703,Barra do Jacaré,05,Barra do Jacaré,,,4102703
+379,41,Paraná,03602,Cambará,05,Cambará,,,4103602
+380,41,Paraná,11803,Jacarezinho,05,Jacarezinho,,,4111803
+381,41,Paraná,12900,Jundiaí do Sul,05,Jundiaí do Sul,,,4112900
 383,41,Paraná,21802,Ribeirão Claro,10,Cachoeira do Espírito Santo,,,4121802
-385,41,Paraná,24103,Santo Antônio da Platina,12,Conselheiro Zacarias,,,4124103
 386,41,Paraná,24103,Santo Antônio da Platina,17,Monte Real,,,4124103
+387,41,Paraná,06100,Conselheiro Mairinck,05,Conselheiro Mairinck,,,4106100
 389,41,Paraná,07009,Curiúva,10,Alecrim,,,4107009
-392,41,Paraná,09708,Ibaiti,10,Amorinha,,,4109708
-393,41,Paraná,09708,Ibaiti,12,Campinho,,,4109708
-394,41,Paraná,09708,Ibaiti,15,Euzébio de Oliveira,,,4109708
-395,41,Paraná,09708,Ibaiti,20,Vassoural,,,4109708
+390,41,Paraná,07751,Figueira,05,Figueira,,,4107751
 396,41,Paraná,09708,Ibaiti,25,Vila Guay,,,4109708
+397,41,Paraná,11704,Jaboti,05,Jaboti,,,4111704
 399,41,Paraná,12306,Japira,10,Novo Jardim,,,4112306
 401,41,Paraná,19202,Pinhalão,10,Lavrinha,,,4119202
-403,41,Paraná,26207,Sapopema,10,Lambari,,,4126207
 404,41,Paraná,26207,Sapopema,15,Vida Nova,,,4126207
 406,41,Paraná,04709,Carlópolis,10,Nova Brasília do Itararé,,,4104709
+407,41,Paraná,09005,Guapirama,05,Guapirama,,,4109005
 409,41,Paraná,12801,Joaquim Távora,10,Joá,,,4112801
+410,41,Paraná,20705,Quatiguá,05,Quatiguá,,,4120705
+411,41,Paraná,22909,Salto do Itararé,05,Salto do Itararé,,,4122909
+412,41,Paraná,24004,Santana do Itararé,05,Santana do Itararé,,,4124004
+413,41,Paraná,25407,São José da Boa Vista,05,São José da Boa Vista,,,4125407
 415,41,Paraná,26603,Siqueira Campos,10,Alemoa,,,4126603
 417,41,Paraná,27809,Tomazina,10,Sapé,,,4127809
-421,41,Paraná,17305,Ortigueira,10,Barreiro,,,4117305
-422,41,Paraná,17305,Ortigueira,15,Lajeado Bonito,,,4117305
-423,41,Paraná,17305,Ortigueira,20,Monjolinho,,,4117305
+418,41,Paraná,28500,Wenceslau Braz,05,Wenceslau Braz,,,4128500
+419,41,Paraná,10078,Imbaú,05,Imbaú,,,4110078
 424,41,Paraná,17305,Ortigueira,25,Natingui,,,4117305
-426,41,Paraná,21703,Reserva,10,José Lacerda,,,4121703
 427,41,Paraná,21703,Reserva,15,Rio Novo,,,4121703
-430,41,Paraná,27502,Tibagi,10,Alto do Amparo,,,4127502
+428,41,Paraná,27106,Telêmaco Borba,05,Telêmaco Borba,,,4127106
 431,41,Paraná,27502,Tibagi,20,Caetano Mendes,,,4127502
-434,41,Paraná,01606,Arapoti,10,Calógeras,,,4101606
+432,41,Paraná,28534,Ventania,05,Ventania,,,4128534
 435,41,Paraná,01606,Arapoti,15,Caratuva,,,4101606
 437,41,Paraná,12009,Jaguariaíva,10,Eduardo Xavier da Silva,,,4112009
-440,41,Paraná,26306,Sengés,07,Ouro Verde,,,4126306
+438,41,Paraná,19400,Piraí do Sul,05,Piraí do Sul,,,4119400
 441,41,Paraná,26306,Sengés,10,Reianópolis,,,4126306
-444,41,Paraná,04907,Castro,10,Abapã,,,4104907
+442,41,Paraná,04659,Carambeí,05,Carambeí,,,4104659
 445,41,Paraná,04907,Castro,20,Socavão,,,4104907
 447,41,Paraná,17701,Palmeira,10,Papagaios Novos,,,4117701
-449,41,Paraná,19905,Ponta Grossa,10,Guaragi,,,4119905
-450,41,Paraná,19905,Ponta Grossa,15,Itaiacoca,,,4119905
 451,41,Paraná,19905,Ponta Grossa,25,Uvaia,,,4119905
-453,41,Paraná,02000,Assis Chateaubriand,10,Bragantina,,,4102000
 454,41,Paraná,02000,Assis Chateaubriand,20,Encantado d'Oeste,,,4102000
+455,41,Paraná,07157,Diamante D'Oeste,05,Diamante D'Oeste,,,4107157
+456,41,Paraná,07538,Entre Rios do Oeste,05,Entre Rios do Oeste,,,4107538
+457,41,Paraná,08205,Formosa do Oeste,05,Formosa do Oeste,,,4108205
 459,41,Paraná,08809,Guaíra,10,Doutor Oliveira Castro,,,4108809
+460,41,Paraná,10656,Iracema do Oeste,05,Iracema do Oeste,,,4110656
 462,41,Paraná,12751,Jesuítas,10,Carajá,,,4112751
-464,41,Paraná,14609,Marechal Cândido Rondon,07,Bom Jardim,,,4114609
-465,41,Paraná,14609,Marechal Cândido Rondon,15,Iguiporã,,,4114609
-466,41,Paraná,14609,Marechal Cândido Rondon,20,Margarida,,,4114609
-467,41,Paraná,14609,Marechal Cândido Rondon,30,Novo Horizonte,,,4114609
-468,41,Paraná,14609,Marechal Cândido Rondon,35,Novo Três Passos,,,4114609
-469,41,Paraná,14609,Marechal Cândido Rondon,45,Porto Mendes,,,4114609
 470,41,Paraná,14609,Marechal Cândido Rondon,55,São Roque,,,4114609
-472,41,Paraná,15358,Maripá,10,Candeia,,,4115358
 473,41,Paraná,15358,Maripá,20,Pérola Independente,,,4115358
-476,41,Paraná,17222,Nova Santa Rosa,10,Alto Santa Fé,,,4117222
+474,41,Paraná,15853,Mercedes,05,Mercedes,,,4115853
 477,41,Paraná,17222,Nova Santa Rosa,20,Planalto do Oeste,,,4117222
+478,41,Paraná,17453,Ouro Verde do Oeste,05,Ouro Verde do Oeste,,,4117453
 480,41,Paraná,17909,Palotina,15,São Camilo,,,4117909
+481,41,Paraná,18451,Pato Bragado,05,Pato Bragado,,,4118451
+482,41,Paraná,20853,Quatro Pontes,05,Quatro Pontes,,,4120853
 484,41,Paraná,23501,Santa Helena,10,São Clemente,,,4123501
+485,41,Paraná,25456,São José das Palmeiras,05,São José das Palmeiras,,,4125456
+486,41,Paraná,25753,São Pedro do Iguaçu,05,São Pedro do Iguaçu,,,4125753
 488,41,Paraná,27403,Terra Roxa,10,Santa Rita d'Oeste,,,4127403
-490,41,Paraná,27700,Toledo,08,Concórdia do Oeste,,,4127700
-491,41,Paraná,27700,Toledo,10,Dez de Maio,,,4127700
-492,41,Paraná,27700,Toledo,15,Dois Irmãos,,,4127700
-493,41,Paraná,27700,Toledo,20,Novo Sarandi,,,4127700
-494,41,Paraná,27700,Toledo,25,São Luiz do Oeste,,,4127700
-495,41,Paraná,27700,Toledo,30,São Miguel,,,4127700
-496,41,Paraná,27700,Toledo,33,Vila Ipiranga,,,4127700
-497,41,Paraná,27700,Toledo,35,Vila Nova,,,4127700
 498,41,Paraná,27700,Toledo,40,Novo Sobradinho,,,4127700
+499,41,Paraná,27957,Tupãssi,05,Tupãssi,,,4127957
+500,41,Paraná,01051,Anahy,05,Anahy,,,4101051
+501,41,Paraná,03057,Boa Vista da Aparecida,05,Boa Vista da Aparecida,,,4103057
+502,41,Paraná,03354,Braganey,05,Braganey,,,4103354
+503,41,Paraná,03453,Cafelândia,05,Cafelândia,,,4103453
+504,41,Paraná,04055,Campo Bonito,05,Campo Bonito,,,4104055
 506,41,Paraná,04600,Capitão Leônidas Marques,20,Alto Alegre do Iguaçu,,,4104600
-508,41,Paraná,04808,Cascavel,15,São João d'Oeste,,,4104808
-509,41,Paraná,04808,Cascavel,25,Juvinópolis,,,4104808
-510,41,Paraná,04808,Cascavel,35,Rio do Salto,,,4104808
 511,41,Paraná,04808,Cascavel,40,Sede Alvorada,,,4104808
+512,41,Paraná,05003,Catanduvas,05,Catanduvas,,,4105003
 514,41,Paraná,06308,Corbélia,25,Ouro Verde do Piquiri,,,4106308
-517,41,Paraná,09302,Guaraniaçu,10,Bela Vista,,,4109302
-518,41,Paraná,09302,Guaraniaçu,15,Borman,,,4109302
+515,41,Paraná,07124,Diamante do Sul,05,Diamante do Sul,,,4107124
 519,41,Paraná,09302,Guaraniaçu,30,Guaporé,,,4109302
-524,41,Paraná,16703,Nova Aurora,07,Marajó,,,4116703
+520,41,Paraná,09757,Ibema,05,Ibema,,,4109757
+521,41,Paraná,10052,Iguatu,05,Iguatu,,,4110052
+522,41,Paraná,13452,Lindoeste,05,Lindoeste,,,4113452
 525,41,Paraná,16703,Nova Aurora,10,Palmitópolis,,,4116703
+526,41,Paraná,23824,Santa Lúcia,05,Santa Lúcia,,,4123824
+527,41,Paraná,24020,Santa Tereza do Oeste,05,Santa Tereza do Oeste,,,4124020
+528,41,Paraná,27858,Três Barras do Paraná,05,Três Barras do Paraná,,,4127858
+529,41,Paraná,05300,Céu Azul,05,Céu Azul,,,4105300
 531,41,Paraná,08304,Foz do Iguaçu,10,Alvorada do Iguaçu,,,4108304
 533,41,Paraná,10953,Itaipulândia,25,São José do Itavó,,,4110953
 535,41,Paraná,15606,Matelândia,07,Agro Cafeeira,,,4115606
 537,41,Paraná,15804,Medianeira,25,Maralúcia,,,4115804
-539,41,Paraná,16059,Missal,10,Dom Armando,,,4116059
 540,41,Paraná,16059,Missal,20,Portão Ocoí,,,4116059
-544,41,Paraná,25704,São Miguel do Iguaçu,10,Aurora do Iguaçu,,,4125704
+541,41,Paraná,21257,Ramilândia,05,Ramilândia,,,4121257
+542,41,Paraná,24053,Santa Terezinha de Itaipu,05,Santa Terezinha de Itaipu,,,4124053
 545,41,Paraná,25704,São Miguel do Iguaçu,20,São José do Iguaçu,,,4125704
-549,41,Paraná,01002,Ampére,10,São Pedro,,,4101002
+546,41,Paraná,26355,Serranópolis do Iguaçu,05,Serranópolis do Iguaçu,,,4126355
+547,41,Paraná,28559,Vera Cruz do Oeste,05,Vera Cruz do Oeste,,,4128559
 550,41,Paraná,01002,Ampére,15,São Salvador,,,4101002
-553,41,Paraná,04501,Capanema,10,Cristo Rei,,,4104501
-554,41,Paraná,04501,Capanema,15,Pinheiro,,,4104501
+551,41,Paraná,02752,Bela Vista da Caroba,05,Bela Vista da Caroba,,,4102752
 555,41,Paraná,04501,Capanema,20,São Luiz,,,4104501
 557,41,Paraná,19004,Pérola d'Oeste,15,Conciolândia,,,4119004
-559,41,Paraná,19806,Planalto,10,Barra Grande,,,4119806
-560,41,Paraná,19806,Planalto,15,Centro Novo,,,4119806
-561,41,Paraná,19806,Planalto,20,Sagrada Família,,,4119806
 562,41,Paraná,19806,Planalto,25,Valério,,,4119806
 564,41,Paraná,20358,Pranchita,10,Canzianópolis,,,4120358
-566,41,Paraná,21406,Realeza,10,Maravilha,,,4121406
-567,41,Paraná,21406,Realeza,15,Marmelândia,,,4121406
 568,41,Paraná,21406,Realeza,20,São Roque,,,4121406
-570,41,Paraná,23808,Santa Izabel do Oeste,10,Anunciação,,,4123808
-571,41,Paraná,23808,Santa Izabel do Oeste,15,Jacutinga,,,4123808
-572,41,Paraná,23808,Santa Izabel do Oeste,20,Rio da Prata,,,4123808
-573,41,Paraná,23808,Santa Izabel do Oeste,25,Sarandi,,,4123808
 574,41,Paraná,23808,Santa Izabel do Oeste,30,União do Oeste,,,4123808
 576,41,Paraná,02604,Barracão,15,Siqueira Belo,,,4102604
+577,41,Paraná,03024,Boa Esperança do Iguaçu,05,Boa Esperança do Iguaçu,,,4103024
+578,41,Paraná,03156,Bom Jesus do Sul,05,Bom Jesus do Sul,,,4103156
+579,41,Paraná,06571,Cruzeiro do Iguaçu,05,Cruzeiro do Iguaçu,,,4106571
 581,41,Paraná,07207,Dois Vizinhos,30,Santa Lúcia,,,4107207
-583,41,Paraná,07405,Enéas Marques,15,Pinhalzinho,,,4107405
 584,41,Paraná,07405,Enéas Marques,20,Vista Alegre,,,4107405
-587,41,Paraná,08403,Francisco Beltrão,07,Jacutinga,,,4108403
-588,41,Paraná,08403,Francisco Beltrão,10,Nova Concórdia,,,4108403
-589,41,Paraná,08403,Francisco Beltrão,20,São Pio X,,,4108403
+585,41,Paraná,07850,Flor da Serra do Sul,05,Flor da Serra do Sul,,,4107850
 590,41,Paraná,08403,Francisco Beltrão,25,Secção Jacaré,,,4108403
-597,41,Paraná,21604,Renascença,10,Baulândia,,,4121604
+591,41,Paraná,14351,Manfrinópolis,05,Manfrinópolis,,,4114351
+592,41,Paraná,15408,Marmeleiro,05,Marmeleiro,,,4115408
+593,41,Paraná,16950,Nova Esperança do Sudoeste,05,Nova Esperança do Sudoeste,,,4116950
+594,41,Paraná,17255,Nova Prata do Iguaçu,05,Nova Prata do Iguaçu,,,4117255
+595,41,Paraná,19251,Pinhal de São Bento,05,Pinhal de São Bento,,,4119251
 598,41,Paraná,21604,Renascença,15,Canela,,,4121604
 600,41,Paraná,22800,Salgado Filho,20,Tiradentes,,,4122800
-603,41,Paraná,24400,Santo Antônio do Sudoeste,15,Marcionópolis,,,4124400
+601,41,Paraná,23006,Salto do Lontra,05,Salto do Lontra,,,4123006
 604,41,Paraná,24400,Santo Antônio do Sudoeste,30,São Pedro do Florido,,,4124400
-606,41,Paraná,25209,São Jorge d'Oeste,10,Doutor Antônio Paranhos,,,4125209
-607,41,Paraná,25209,São Jorge d'Oeste,15,Iolópolis,,,4125209
-608,41,Paraná,25209,São Jorge d'Oeste,17,Lagos do Iguaçu,,,4125209
 609,41,Paraná,25209,São Jorge d'Oeste,20,Sede Nova Sant'Ana,,,4125209
-611,41,Paraná,28609,Verê,10,Presidente Kennedy,,,4128609
 612,41,Paraná,28609,Verê,15,Sede Progresso,,,4128609
-615,41,Paraná,05409,Chopinzinho,10,São Francisco,,,4105409
+613,41,Paraná,03222,Bom Sucesso do Sul,05,Bom Sucesso do Sul,,,4103222
 616,41,Paraná,05409,Chopinzinho,15,São Luiz,,,4105409
 618,41,Paraná,06506,Coronel Vivida,10,Vista Alegre,,,4106506
-620,41,Paraná,11209,Itapejara d'Oeste,10,Barra Grande,,,4111209
 621,41,Paraná,11209,Itapejara d'Oeste,15,Coxilha Rica,,,4111209
-623,41,Paraná,15309,Mariópolis,10,Rio Pinheiro,,,4115309
 624,41,Paraná,15309,Mariópolis,15,Senhor Bom Jesus dos Gramados,,,4115309
 626,41,Paraná,18501,Pato Branco,30,São Roque do Chopim,,,4118501
-628,41,Paraná,24806,São João,10,Dois Irmãos,,,4124806
-629,41,Paraná,24806,São João,15,Nova Lourdes,,,4124806
-630,41,Paraná,24806,São João,17,Ouro Verde,,,4124806
 631,41,Paraná,24806,São João,20,Vila Paraíso,,,4124806
-640,41,Paraná,19608,Pitanga,10,Barra Bonita,,,4119608
+632,41,Paraná,26272,Saudade do Iguaçu,05,Saudade do Iguaçu,,,4126272
+633,41,Paraná,26652,Sulina,05,Sulina,,,4126652
+634,41,Paraná,28708,Vitorino,05,Vitorino,,,4128708
+635,41,Paraná,03040,Boa Ventura de São Roque,05,Boa Ventura de São Roque,,,4103040
+636,41,Paraná,13254,Laranjal,05,Laranjal,,,4113254
+637,41,Paraná,15739,Mato Rico,05,Mato Rico,,,4115739
+638,41,Paraná,17800,Palmital,05,Palmital,,,4117800
 641,41,Paraná,19608,Pitanga,40,Vila Nova,,,4119608
-643,41,Paraná,23857,Santa Maria do Oeste,20,Ouro Verde,,,4123857
-644,41,Paraná,23857,Santa Maria do Oeste,25,Rio do Tigre,,,4123857
-645,41,Paraná,23857,Santa Maria do Oeste,30,São José,,,4123857
 646,41,Paraná,23857,Santa Maria do Oeste,35,São Manoel,,,4123857
-654,41,Paraná,09401,Guarapuava,07,Atalaia,,,4109401
-655,41,Paraná,09401,Guarapuava,35,Entre Rios,,,4109401
-656,41,Paraná,09401,Guarapuava,45,Guairacá,,,4109401
-657,41,Paraná,09401,Guarapuava,50,Guará,,,4109401
+647,41,Paraná,03958,Campina do Simão,05,Campina do Simão,,,4103958
+648,41,Paraná,04428,Candói,05,Candói,,,4104428
+649,41,Paraná,04451,Cantagalo,05,Cantagalo,,,4104451
+650,41,Paraná,07546,Espigão Alto do Iguaçu,05,Espigão Alto do Iguaçu,,,4107546
+651,41,Paraná,08452,Foz do Jordão,05,Foz do Jordão,,,4108452
+652,41,Paraná,08650,Goioxim,05,Goioxim,,,4108650
 658,41,Paraná,09401,Guarapuava,75,Palmeirinha,,,4109401
+659,41,Paraná,10201,Inácio Martins,05,Inácio Martins,,,4110201
 661,41,Paraná,13304,Laranjeiras do Sul,25,Passo Liso,,,4113304
-664,41,Paraná,17057,Nova Laranjeiras,10,Bananas,,,4117057
-665,41,Paraná,17057,Nova Laranjeiras,15,Guaraí,,,4117057
-666,41,Paraná,17057,Nova Laranjeiras,20,Guarani,,,4117057
+662,41,Paraná,15457,Marquinho,05,Marquinho,,,4115457
 667,41,Paraná,17057,Nova Laranjeiras,30,Rio da Prata,,,4117057
-669,41,Paraná,19301,Pinhão,10,Bom Retiro,,,4119301
-670,41,Paraná,19301,Pinhão,15,Faxinal do Céu,,,4119301
 671,41,Paraná,19301,Pinhão,25,Pinhalzinho,,,4119301
-676,41,Paraná,22156,Rio Bonito do Iguaçu,10,Assentamento Ireno Alves dos Santos,,,4122156
-677,41,Paraná,22156,Rio Bonito do Iguaçu,15,Campo do Bugre,,,4122156
-678,41,Paraná,22156,Rio Bonito do Iguaçu,20,Linha Rosa,,,4122156
+672,41,Paraná,20150,Porto Barreiro,05,Porto Barreiro,,,4120150
+673,41,Paraná,20903,Quedas do Iguaçu,05,Quedas do Iguaçu,,,4120903
+674,41,Paraná,21752,Reserva do Iguaçu,05,Reserva do Iguaçu,,,4121752
 679,41,Paraná,22156,Rio Bonito do Iguaçu,25,Pinhalzinho,,,4122156
-683,41,Paraná,05706,Clevelândia,10,Coronel Firmino Martins,,,4105706
+680,41,Paraná,27965,Turvo,05,Turvo,,,4127965
+681,41,Paraná,28658,Virmond,05,Virmond,,,4128658
 684,41,Paraná,05706,Clevelândia,15,São Francisco de Sales,,,4105706
+685,41,Paraná,06456,Coronel Domingos Soares,05,Coronel Domingos Soares,,,4106456
+686,41,Paraná,09658,Honório Serpa,05,Honório Serpa,,,4109658
 688,41,Paraná,14401,Mangueirinha,10,Covó,,,4114401
-690,41,Paraná,17602,Palmas,15,Francisco Frederico Teixeira Guimarães,,,4117602
 691,41,Paraná,17602,Palmas,20,Padre Ponciano,,,4117602
+692,41,Paraná,07736,Fernandes Pinheiro,05,Fernandes Pinheiro,,,4107736
+693,41,Paraná,08957,Guamiranga,05,Guamiranga,,,4108957
 695,41,Paraná,10102,Imbituva,10,Apiaba,,,4110102
+696,41,Paraná,10508,Ipiranga,05,Ipiranga,,,4110508
 698,41,Paraná,11407,Ivaí,10,Bom Jardim do Sul,,,4111407
-700,41,Paraná,20606,Prudentópolis,10,Jaciaba,,,4120606
 701,41,Paraná,20606,Prudentópolis,15,Patos Velhos,,,4120606
 703,41,Paraná,27007,Teixeira Soares,20,Guaraúna,,,4127007
-705,41,Paraná,10706,Irati,10,Gonçalves Júnior,,,4110706
-706,41,Paraná,10706,Irati,15,Guamirim,,,4110706
 707,41,Paraná,10706,Irati,20,Itapará,,,4110706
-709,41,Paraná,13908,Mallet,10,Dorizon,,,4113908
 710,41,Paraná,13908,Mallet,15,Rio Claro do Sul,,,4113908
+711,41,Paraná,21505,Rebouças,05,Rebouças,,,4121505
+712,41,Paraná,22008,Rio Azul,05,Rio Azul,,,4122008
 714,41,Paraná,02901,Bituruna,10,Santo Antônio do Iratim,,,4102901
-716,41,Paraná,06803,Cruz Machado,10,Pinaré,,,4106803
 717,41,Paraná,06803,Cruz Machado,15,Santana,,,4106803
 719,41,Paraná,08502,General Carneiro,15,Jangada do Sul,,,4108502
+720,41,Paraná,18600,Paula Freitas,05,Paula Freitas,,,4118600
 722,41,Paraná,18709,Paulo Frontin,10,Vera Guarani,,,4118709
-725,41,Paraná,28203,União da Vitória,10,São Cristóvão,,,4128203
+723,41,Paraná,20309,Porto Vitória,05,Porto Vitória,,,4120309
 726,41,Paraná,28203,União da Vitória,15,São Domingos,,,4128203
+727,41,Paraná,01309,Antônio Olinto,05,Antônio Olinto,,,4101309
 729,41,Paraná,25100,São João do Triunfo,10,Palmira,,,4125100
-731,41,Paraná,25605,São Mateus do Sul,10,Caitá,,,4125605
-732,41,Paraná,25605,São Mateus do Sul,15,Fluviópolis,,,4125605
 733,41,Paraná,25605,São Mateus do Sul,20,Lajeado,,,4125605
+734,41,Paraná,00202,Adrianópolis,05,Adrianópolis,,,4100202
 736,41,Paraná,05201,Cerro Azul,10,São Sebastião,,,4105201
-739,41,Paraná,13205,Lapa,10,Água Azul,,,4113205
+737,41,Paraná,28633,Doutor Ulysses,05,Doutor Ulysses,,,4128633
 740,41,Paraná,13205,Lapa,15,Mariental,,,4113205
+741,41,Paraná,20101,Porto Amazonas,05,Porto Amazonas,,,4120101
+742,41,Paraná,00400,Almirante Tamandaré,05,Almirante Tamandaré,,,4100400
 744,41,Paraná,01804,Araucária,10,Guajuvira,,,4101804
-746,41,Paraná,02307,Balsa Nova,10,Bugre,,,4102307
 747,41,Paraná,02307,Balsa Nova,15,São Luiz do Purunã,,,4102307
-751,41,Paraná,04204,Campo Largo,10,Bateias,,,4104204
-752,41,Paraná,04204,Campo Largo,15,Ferraria,,,4104204
-753,41,Paraná,04204,Campo Largo,20,São Silvestre,,,4104204
+748,41,Paraná,03107,Bocaiúva do Sul,05,Bocaiúva do Sul,,,4103107
+749,41,Paraná,04006,Campina Grande do Sul,05,Campina Grande do Sul,,,4104006
 754,41,Paraná,04204,Campo Largo,25,Três Córregos,,,4104204
+755,41,Paraná,04253,Campo Magro,05,Campo Magro,,,4104253
+756,41,Paraná,05805,Colombo,05,Colombo,,,4105805
 758,41,Paraná,06209,Contenda,10,Catanduvas do Sul,,,4106209
-760,41,Paraná,06902,Curitiba,05,Curitiba,01,Administração Regional da Matriz (R.1.MZ),4106902
-761,41,Paraná,06902,Curitiba,05,Curitiba,02,Administração Regional do Boqueirão (R.2.BQ),4106902
-762,41,Paraná,06902,Curitiba,05,Curitiba,03,Administração Regional do Cajuru (R.3.CJ),4106902
-763,41,Paraná,06902,Curitiba,05,Curitiba,04,Administração Regional da Boa Vista (R.4.BV),4106902
-764,41,Paraná,06902,Curitiba,05,Curitiba,05,Administração Regional de Santa Felicidade (R.5.SF),4106902
-765,41,Paraná,06902,Curitiba,05,Curitiba,06,Administração Regional do Portão (R.7.PR),4106902
-766,41,Paraná,06902,Curitiba,05,Curitiba,07,Administração Regional Pinheirinho (R.8.PN),4106902
 767,41,Paraná,06902,Curitiba,05,Curitiba,08,Administração Regional do Bairro Novo (R.10.BN),4106902
+768,41,Paraná,07652,Fazenda Rio Grande,05,Fazenda Rio Grande,,,4107652
+769,41,Paraná,11258,Itaperuçu,05,Itaperuçu,,,4111258
 771,41,Paraná,14302,Mandirituba,10,Areia Branca dos Assis,,,4114302
+772,41,Paraná,19152,Pinhais,05,Pinhais,,,4119152
+773,41,Paraná,19509,Piraquara,05,Piraquara,,,4119509
 775,41,Paraná,20804,Quatro Barras,10,Borda do Campo,,,4120804
 777,41,Paraná,22206,Rio Branco do Sul,10,Açungui,,,4122206
-779,41,Paraná,25506,São José dos Pinhais,06,Borda do Campo de São Sebastião,,,4125506
-780,41,Paraná,25506,São José dos Pinhais,07,Cachoeira de São José,,,4125506
-781,41,Paraná,25506,São José dos Pinhais,10,Campo Largo da Roseira,,,4125506
-782,41,Paraná,25506,São José dos Pinhais,15,Colônia Murici,,,4125506
-783,41,Paraná,25506,São José dos Pinhais,20,Marcelino,,,4125506
 784,41,Paraná,25506,São José dos Pinhais,25,São Marcos,,,4125506
-787,41,Paraná,01200,Antonina,10,Cacatu,,,4101200
+785,41,Paraná,27882,Tunas do Paraná,05,Tunas do Paraná,,,4127882
 788,41,Paraná,01200,Antonina,15,Cachoeira de Cima,,,4101200
-790,41,Paraná,09500,Guaraqueçaba,10,Ararapira,,,4109500
 791,41,Paraná,09500,Guaraqueçaba,15,Serra Negra,,,4109500
 793,41,Paraná,09609,Guaratuba,10,Pedra Branca do Araraquara,,,4109609
+794,41,Paraná,15705,Matinhos,05,Matinhos,,,4115705
 796,41,Paraná,16208,Morretes,10,Porto de Cima,,,4116208
 798,41,Paraná,18204,Paranaguá,10,Alexandra,,,4118204
+799,41,Paraná,19954,Pontal do Paraná,05,Pontal do Paraná,,,4119954
 801,41,Paraná,00301,Agudos do Sul,10,Colônia Padre Paulo,,,4100301
-805,41,Paraná,21208,Quitandinha,10,Doce Grande,,,4121208
+802,41,Paraná,04105,Campo do Tenente,05,Campo do Tenente,,,4104105
+803,41,Paraná,19103,Piên,05,Piên,,,4119103
 806,41,Paraná,21208,Quitandinha,15,Pangaré,,,4121208
+807,41,Paraná,22305,Rio Negro,05,Rio Negro,,,4122305
+808,41,Paraná,27601,Tijucas do Sul,05,Tijucas do Sul,,,4127601
